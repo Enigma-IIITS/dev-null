@@ -1,0 +1,5 @@
+You’ve stumbled upon a peculiar pair of files: encryption.txt and encryption.py.
+The encryption.txt file holds an encrypted flag, while encryption.py reveals the intricate algorithm used to cloak it.
+To unlock the flag, you’ll need to understand the mind-bending encryption techniques hidden in the code and reverse-engineer the solution.
+
+zip file: {file_url}
