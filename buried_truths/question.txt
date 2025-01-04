@@ -1,0 +1,9 @@
+A peculiar file has buried_truths.xcf.
+Rumor has it that something valuable is buried within, hidden carefully from plain sight.
+Those who look deep enough, past the obvious, may discover what lies beneath.
+
+Unravel the mysteries concealed within.
+Somewhere, among the layers and whispers of this file, a flag is waiting to be found.
+Can you see what others cannot?
+
+buried_truths.xcf: {file_url}
