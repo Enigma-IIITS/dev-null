@@ -69,7 +69,7 @@ To reveal the hidden text, follow these steps:
 <img alt='step_4.png' src='./solution_assets/step_4.png' width='750'>
 
 <br>
-<b>Step - 5.</b> Ignore the name of the layer (Enigma{you}) and focus on its actual content (<kbd><samp>ENIGMA{M4sk3d_L4y3r_Unc0v3r3d}</samp></kbd>).
+<b>Step - 5.</b> Ignore the name of the layer (Enigma{you}) and focus on its actual content (<code>ENIGMA{M4sk3d_L4y3r_Unc0v3r3d}</code>).
 </center>
 
 ---
