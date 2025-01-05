@@ -1,0 +1,10 @@
+The zip file will contain multiple files, but your target is '{file_name}'.
+The contents of this file are hidden in plain sight, yet disguised. Unveil its true form first, and only then will its secrets become clear.
+
+Once you’ve deciphered it, count every character in its revealed state—this will be your COUNT.
+Look closely; somewhere within lies a hidden identifier in the format ENIGMA{{RandomValue}}.
+
+Piece it all together to form the flag as ENIGMA{{RandomValue_COUNT}}.
+The answer lies beneath the surface—are you keen-eyed enough to unlock it?
+
+zip file: {file_url}
